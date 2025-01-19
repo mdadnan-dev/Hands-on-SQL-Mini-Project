@@ -48,7 +48,7 @@ alter column CustomerName varchar(255) not null
 
 
 
--- Q3. Fetch the data where the Customer’s name is ending with ‘N’ also get the purchase amount value greater than 500
+-- Q3. Fetch the data where the Customerâ€™s name is ending with â€˜Nâ€™ also get the purchase amount value greater than 500
 
 select * 
 from customer
